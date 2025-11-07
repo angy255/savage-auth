@@ -50,7 +50,9 @@ A full-stack message board for 21 Savage fans to share thoughts, debate lyrics, 
 ## 📸 Screenshot
 
 <p align="center">
-  <img width="1691" height="809" alt="art-heist-app" src="https://github.com/user-attachments/assets/ee432b59-469d-4593-8740-250681c7e98f" />
+
+<img width="1668" height="843" alt="21-savage-screenshot" src="https://github.com/user-attachments/assets/3e7155dc-f6b3-418f-bfcf-22eaba3851e0" />
+
 </p>
 
 ---
